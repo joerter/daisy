@@ -1,0 +1,23 @@
+{
+  "name": "daisy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server --files index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joerter/daisy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joerter/daisy/issues"
+  },
+  "homepage": "https://github.com/joerter/daisy#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.11"
+  }
+}
